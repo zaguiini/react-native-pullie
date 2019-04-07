@@ -6,7 +6,7 @@
 
 ## 🤔 What on earth is that?
 
-This is a fully customizable pull-from-bottom-view, useful for displaying extra information on the screen without having to worry too much about space.
+This is a fully customizable pull-from-bottom `<View />`, useful for displaying extra information on the screen without having to worry too much about space.
 
 ## 📖 Installation
 

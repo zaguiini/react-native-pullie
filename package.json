@@ -1,5 +1,6 @@
 {
   "name": "react-native-pullie",
+  "description": "A fully customizable pull-from-bottom view",
   "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
