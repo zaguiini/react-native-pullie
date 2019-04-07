@@ -1,0 +1,24 @@
+{
+  "name": "react-native-pullie",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "files": [
+    "index.d.ts",
+    "index.js"
+  ],
+  "scripts": {
+    "prebuild": "rm -rf index.d.ts index.js",
+    "build": "yarn tsc",
+    "prepublish": "yarn build"
+  },
+  "peerDependencies": {
+    "react": "16.8.3",
+    "react-native": "^0.59.0"
+  },
+  "devDependencies": {
+    "@types/react": "^16.8.12",
+    "@types/react-native": "^0.57.42",
+    "typescript": "^3.4.2"
+  }
+}
