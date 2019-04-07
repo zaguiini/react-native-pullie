@@ -1,6 +1,6 @@
 # `react-native-pullie`
 
-<img src="./demo.gif" width="288" />
+<img src="//raw.githubusercontent.com/zaguiini/react-native-pullie/master/demo.gif" width="288" />
 
 (it's not slow, the gif has a low framerate)
 
